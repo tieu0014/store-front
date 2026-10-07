@@ -62,4 +62,4 @@ jobs:
           app-name: 'store-front'
           slot-name: 'Production'
           package: .
-          
+          startup-command: npx serve -s
